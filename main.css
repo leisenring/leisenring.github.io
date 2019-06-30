@@ -13,12 +13,16 @@ body {
     background-color: blanchedalmond;
 }
 
+#textBox {
+    margin: 0%;
+    padding-bottom: 20px;
+}
+
 h1 {
     font-family: 'Meddon', cursive;
     font-size: 18px;
     margin-top: 0%;
     margin-bottom: 0%;
-    padding-bottom: 20px;
     padding-left: 25%;
     padding-right: 25%;
     color: white;
@@ -33,6 +37,7 @@ h2 {
 
 .centered {
     text-align: center;
+    margin: 0%;
 }
 
 p {
