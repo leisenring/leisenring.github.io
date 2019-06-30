@@ -49,7 +49,7 @@ p {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 760px) {
     h1 {
         padding-left: 10%;
         padding-right: 10%;
