@@ -15,7 +15,7 @@ body {
 
 #textBox {
     margin: 0%;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 h1 {
@@ -44,6 +44,7 @@ p {
     margin-top: .5em;
     text-align: left;
     color: white;
+    font-family: 'Volkhov', serif;
 }
 
 @media screen and (min-width: 320px) {
@@ -71,6 +72,21 @@ p {
     text-align: center;
     min-width: 100%;
     float: none;
+}
+
+#nav {
+    margin: 0 auto;
+    align: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: 1.2em;
+    font-family: 'Volkhov', serif;
 }
 
 #flower {
